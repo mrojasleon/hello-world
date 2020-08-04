@@ -1,2 +1,2 @@
 # hello-world
-This is to lear how Github works
+This is to learn how Github works
